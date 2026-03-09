@@ -1,0 +1,5 @@
+download dependencies 
+fastapi
+uvicorn
+requests
+jinja2
